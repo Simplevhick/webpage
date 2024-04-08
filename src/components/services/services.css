@@ -1,0 +1,44 @@
+.services shadow{
+    /* padding: 10px; */
+    /* text-align: center; */
+    /* margin-top: 20px; */
+}
+
+.services h1{
+    font-size: 20px;
+    margin: 20px 0;
+    color: #00A3BA;
+    text-align: center;
+
+}
+
+.services span{
+    font-size: 40px;
+    margin-right: 5px;
+    color: #000;
+    text-align: center;
+    justify-content: center;
+    align-items: center; 
+    display: flex;
+    margin-top: 25px;
+}
+
+.services p{
+    font-size: 13px;
+    color: grey;
+    /* margin: 3px 0; */
+    padding: 10px;
+    text-align: center;
+
+}
+
+.services .btn-details{
+    padding: 6px;
+    text-align: center;
+}
+
+.services .btn-details:hover{
+    font-size: 2rem;
+    /* transition: 0.5s; */
+    color: black;
+}

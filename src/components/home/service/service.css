@@ -1,0 +1,40 @@
+.service h1{
+    font-size: 17px;
+    margin: 20px 0;
+    color: #00A3BA;
+    text-align: center;
+
+}
+
+.service span{
+    font-size: 40px;
+    margin-right: 5px;
+    color: #000;
+    text-align: center;
+    justify-content: center;
+    align-items: center; 
+    display: flex;
+    margin-top: 25px;
+}
+
+.service p{
+    font-size: 13px;
+    color: grey;
+    padding: 10px;
+    text-align: center;
+
+}
+
+.service .btn-details{
+    padding: 6px;
+    text-align: center;
+}
+
+.service .btn-details:hover{
+    font-size: 2rem;
+    color: black;
+}
+
+@media screen and (max-width:600px) {
+    
+}
